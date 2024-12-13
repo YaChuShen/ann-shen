@@ -12,5 +12,3 @@
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 
 <br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ann-shen&theme=dark&border_radius=10)](https://github.com/ann-shen)
